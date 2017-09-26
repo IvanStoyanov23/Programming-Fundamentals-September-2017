@@ -39,7 +39,7 @@ namespace Problem_8.Calories_Counter
                 }
 
             }
-            Console.WriteLine($"Total Calories: {calories}");
+            Console.WriteLine($"Total calories: {calories}");
         }
     }
 }
