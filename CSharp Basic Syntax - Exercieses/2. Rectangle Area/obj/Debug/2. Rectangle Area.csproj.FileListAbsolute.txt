@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Basic Syntax - Exercieses\2. Rectangle Area\bin\Debug\_2.Rectangle_Area.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Basic Syntax - Exercieses\2. Rectangle Area\bin\Debug\_2.Rectangle_Area.exe
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Basic Syntax - Exercieses\2. Rectangle Area\bin\Debug\_2.Rectangle_Area.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Basic Syntax - Exercieses\2. Rectangle Area\obj\Debug\_2.Rectangle_Area.exe
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Basic Syntax - Exercieses\2. Rectangle Area\obj\Debug\_2.Rectangle_Area.pdb
