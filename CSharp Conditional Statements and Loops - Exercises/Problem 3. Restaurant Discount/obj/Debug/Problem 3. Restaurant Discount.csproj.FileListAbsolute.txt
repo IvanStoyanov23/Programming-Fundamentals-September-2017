@@ -1,6 +1,0 @@
-c:\users\ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe.config
-c:\users\ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe
-c:\users\ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.pdb
-c:\users\ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\obj\Debug\Problem 3. Restaurant Discount.csprojResolveAssemblyReference.cache
-c:\users\ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.exe
-c:\users\ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.pdb
