@@ -1,5 +1,0 @@
-C:\Users\Ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 6. Interval of Numbers\bin\Debug\Problem_6.Interval_of_Numbers.exe.config
-C:\Users\Ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 6. Interval of Numbers\bin\Debug\Problem_6.Interval_of_Numbers.exe
-C:\Users\Ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 6. Interval of Numbers\bin\Debug\Problem_6.Interval_of_Numbers.pdb
-C:\Users\Ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 6. Interval of Numbers\obj\Debug\Problem_6.Interval_of_Numbers.exe
-C:\Users\Ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 6. Interval of Numbers\obj\Debug\Problem_6.Interval_of_Numbers.pdb
