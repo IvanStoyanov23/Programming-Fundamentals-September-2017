@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 14. Magic Letter\bin\Debug\Problem_14.Magic_Letter.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 14. Magic Letter\bin\Debug\Problem_14.Magic_Letter.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 14. Magic Letter\bin\Debug\Problem_14.Magic_Letter.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 14. Magic Letter\obj\Debug\Problem_14.Magic_Letter.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 14. Magic Letter\obj\Debug\Problem_14.Magic_Letter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\obj\Debug\Problem 10. Triangle of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\obj\Debug\Problem_10.Triangle_of_Numbers.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\obj\Debug\Problem_10.Triangle_of_Numbers.pdb

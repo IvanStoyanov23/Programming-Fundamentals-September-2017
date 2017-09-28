@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 15. Neighbour Wars\bin\Debug\Problem_15.Neighbour_Wars.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 15. Neighbour Wars\bin\Debug\Problem_15.Neighbour_Wars.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 15. Neighbour Wars\bin\Debug\Problem_15.Neighbour_Wars.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 15. Neighbour Wars\obj\Debug\Problem_15.Neighbour_Wars.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 15. Neighbour Wars\obj\Debug\Problem_15.Neighbour_Wars.pdb

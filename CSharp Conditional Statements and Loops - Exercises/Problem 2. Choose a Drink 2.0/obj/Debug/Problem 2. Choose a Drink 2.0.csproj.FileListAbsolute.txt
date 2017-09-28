@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 2. Choose a Drink 2.0\bin\Debug\Problem_2.Choose_a_Drink_2._0.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 2. Choose a Drink 2.0\bin\Debug\Problem_2.Choose_a_Drink_2._0.exe
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 2. Choose a Drink 2.0\bin\Debug\Problem_2.Choose_a_Drink_2._0.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 2. Choose a Drink 2.0\obj\Debug\Problem_2.Choose_a_Drink_2._0.exe
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 2. Choose a Drink 2.0\obj\Debug\Problem_2.Choose_a_Drink_2._0.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Conditional Statements and Loops - Exercises\Problem 2. Choose a Drink 2.0\obj\Debug\Problem 2. Choose a Drink 2.0.csprojResolveAssemblyReference.cache
