@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 3. Practice Characters and Strings\bin\Debug\Problem_3.Practice_Characters_and_Strings.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 3. Practice Characters and Strings\bin\Debug\Problem_3.Practice_Characters_and_Strings.exe
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 3. Practice Characters and Strings\bin\Debug\Problem_3.Practice_Characters_and_Strings.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 3. Practice Characters and Strings\obj\Debug\Problem_3.Practice_Characters_and_Strings.exe
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 3. Practice Characters and Strings\obj\Debug\Problem_3.Practice_Characters_and_Strings.pdb

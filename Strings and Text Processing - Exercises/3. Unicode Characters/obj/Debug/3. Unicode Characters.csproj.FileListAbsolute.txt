@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\3. Unicode Characters\bin\Debug\_3.Unicode_Characters.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\3. Unicode Characters\bin\Debug\_3.Unicode_Characters.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\3. Unicode Characters\bin\Debug\_3.Unicode_Characters.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\3. Unicode Characters\obj\Debug\_3.Unicode_Characters.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\3. Unicode Characters\obj\Debug\_3.Unicode_Characters.pdb

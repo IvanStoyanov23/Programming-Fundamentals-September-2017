@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 1. Practice Integer Numbers\bin\Debug\Problem_1.Practice_Integer_Numbers.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 1. Practice Integer Numbers\bin\Debug\Problem_1.Practice_Integer_Numbers.exe
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 1. Practice Integer Numbers\bin\Debug\Problem_1.Practice_Integer_Numbers.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 1. Practice Integer Numbers\obj\Debug\Problem_1.Practice_Integer_Numbers.exe
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 1. Practice Integer Numbers\obj\Debug\Problem_1.Practice_Integer_Numbers.pdb

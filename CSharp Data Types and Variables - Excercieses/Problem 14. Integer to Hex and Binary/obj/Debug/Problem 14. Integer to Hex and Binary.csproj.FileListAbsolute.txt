@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 14. Integer to Hex and Binary\bin\Debug\Problem_14.Integer_to_Hex_and_Binary.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 14. Integer to Hex and Binary\bin\Debug\Problem_14.Integer_to_Hex_and_Binary.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 14. Integer to Hex and Binary\bin\Debug\Problem_14.Integer_to_Hex_and_Binary.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 14. Integer to Hex and Binary\obj\Debug\Problem 14. Integer to Hex and Binary.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 14. Integer to Hex and Binary\obj\Debug\Problem_14.Integer_to_Hex_and_Binary.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 14. Integer to Hex and Binary\obj\Debug\Problem_14.Integer_to_Hex_and_Binary.pdb

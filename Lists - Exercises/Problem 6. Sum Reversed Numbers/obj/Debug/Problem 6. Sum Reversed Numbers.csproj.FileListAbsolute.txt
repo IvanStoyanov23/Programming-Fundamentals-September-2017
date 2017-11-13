@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 6. Sum Reversed Numbers\bin\Debug\Problem_6.Sum_Reversed_Numbers.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 6. Sum Reversed Numbers\bin\Debug\Problem_6.Sum_Reversed_Numbers.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 6. Sum Reversed Numbers\bin\Debug\Problem_6.Sum_Reversed_Numbers.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 6. Sum Reversed Numbers\obj\Debug\Problem_6.Sum_Reversed_Numbers.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 6. Sum Reversed Numbers\obj\Debug\Problem_6.Sum_Reversed_Numbers.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 6. Sum Reversed Numbers\obj\Debug\Problem 6. Sum Reversed Numbers.csprojResolveAssemblyReference.cache

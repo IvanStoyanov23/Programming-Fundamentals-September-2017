@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 2. Max Method\bin\Debug\Problem_2.Max_Method.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 2. Max Method\bin\Debug\Problem_2.Max_Method.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 2. Max Method\bin\Debug\Problem_2.Max_Method.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 2. Max Method\obj\Debug\Problem_2.Max_Method.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 2. Max Method\obj\Debug\Problem_2.Max_Method.pdb

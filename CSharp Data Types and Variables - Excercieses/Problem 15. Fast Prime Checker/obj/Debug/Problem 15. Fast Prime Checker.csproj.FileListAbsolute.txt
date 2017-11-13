@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 15. Fast Prime Checker\bin\Debug\Problem_15.Fast_Prime_Checker.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 15. Fast Prime Checker\bin\Debug\Problem_15.Fast_Prime_Checker.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 15. Fast Prime Checker\bin\Debug\Problem_15.Fast_Prime_Checker.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 15. Fast Prime Checker\obj\Debug\Problem_15.Fast_Prime_Checker.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 15. Fast Prime Checker\obj\Debug\Problem_15.Fast_Prime_Checker.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 15. Fast Prime Checker\obj\Debug\Problem 15. Fast Prime Checker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 11. Convert Speed Units\bin\Debug\Problem_11.Convert_Speed_Units.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 11. Convert Speed Units\bin\Debug\Problem_11.Convert_Speed_Units.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 11. Convert Speed Units\bin\Debug\Problem_11.Convert_Speed_Units.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 11. Convert Speed Units\obj\Debug\Problem 11. Convert Speed Units.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 11. Convert Speed Units\obj\Debug\Problem_11.Convert_Speed_Units.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 11. Convert Speed Units\obj\Debug\Problem_11.Convert_Speed_Units.pdb

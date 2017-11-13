@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 2. Advertisement Message\bin\Debug\Problem_2.Advertisement_Message.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 2. Advertisement Message\bin\Debug\Problem_2.Advertisement_Message.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 2. Advertisement Message\bin\Debug\Problem_2.Advertisement_Message.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 2. Advertisement Message\obj\Debug\Problem_2.Advertisement_Message.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 2. Advertisement Message\obj\Debug\Problem_2.Advertisement_Message.pdb

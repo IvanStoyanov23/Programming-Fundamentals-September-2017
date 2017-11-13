@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 15. Substring\bin\Debug\Problem_15.Substring.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 15. Substring\bin\Debug\Problem_15.Substring.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 15. Substring\bin\Debug\Problem_15.Substring.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 15. Substring\obj\Debug\Problem 15. Substring.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 15. Substring\obj\Debug\Problem_15.Substring.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 15. Substring\obj\Debug\Problem_15.Substring.pdb

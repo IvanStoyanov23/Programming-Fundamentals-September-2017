@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\7. Multiply big number\bin\Debug\_7.Multiply_big_number.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\7. Multiply big number\bin\Debug\_7.Multiply_big_number.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\7. Multiply big number\bin\Debug\_7.Multiply_big_number.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\7. Multiply big number\obj\Debug\_7.Multiply_big_number.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\7. Multiply big number\obj\Debug\_7.Multiply_big_number.pdb

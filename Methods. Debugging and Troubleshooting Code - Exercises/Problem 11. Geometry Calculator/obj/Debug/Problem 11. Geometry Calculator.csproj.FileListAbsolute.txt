@@ -1,0 +1,5 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 11. Geometry Calculator\bin\Debug\Problem_11.Geometry_Calculator.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 11. Geometry Calculator\bin\Debug\Problem_11.Geometry_Calculator.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 11. Geometry Calculator\bin\Debug\Problem_11.Geometry_Calculator.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 11. Geometry Calculator\obj\Debug\Problem_11.Geometry_Calculator.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 11. Geometry Calculator\obj\Debug\Problem_11.Geometry_Calculator.pdb

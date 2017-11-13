@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 5. Character Stats\bin\Debug\Problem_5.Character_Stats.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 5. Character Stats\obj\Debug\Problem 5. Character Stats.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 5. Character Stats\obj\Debug\Problem_5.Character_Stats.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 5. Character Stats\obj\Debug\Problem_5.Character_Stats.pdb

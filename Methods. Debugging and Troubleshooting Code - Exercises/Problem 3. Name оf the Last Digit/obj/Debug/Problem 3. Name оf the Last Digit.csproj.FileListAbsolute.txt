@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 3. Name оf the Last Digit\bin\Debug\Problem_3.Name_оf_the_Last_Digit.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 3. Name оf the Last Digit\bin\Debug\Problem_3.Name_оf_the_Last_Digit.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 3. Name оf the Last Digit\bin\Debug\Problem_3.Name_оf_the_Last_Digit.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 3. Name оf the Last Digit\obj\Debug\Problem_3.Name_оf_the_Last_Digit.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 3. Name оf the Last Digit\obj\Debug\Problem_3.Name_оf_the_Last_Digit.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 3. Name оf the Last Digit\obj\Debug\Problem 3. Name оf the Last Digit.csprojResolveAssemblyReference.cache

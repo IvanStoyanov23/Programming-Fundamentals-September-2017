@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 13. Vowel or Digit\bin\Debug\Problem_13.Vowel_or_Digit.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 13. Vowel or Digit\bin\Debug\Problem_13.Vowel_or_Digit.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 13. Vowel or Digit\bin\Debug\Problem_13.Vowel_or_Digit.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 13. Vowel or Digit\obj\Debug\Problem 13. Vowel or Digit.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 13. Vowel or Digit\obj\Debug\Problem_13.Vowel_or_Digit.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 13. Vowel or Digit\obj\Debug\Problem_13.Vowel_or_Digit.pdb

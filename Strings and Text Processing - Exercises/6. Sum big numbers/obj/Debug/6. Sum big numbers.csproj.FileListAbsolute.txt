@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\6. Sum big numbers\bin\Debug\_6.Sum_big_numbers.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\6. Sum big numbers\bin\Debug\_6.Sum_big_numbers.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\6. Sum big numbers\bin\Debug\_6.Sum_big_numbers.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\6. Sum big numbers\obj\Debug\_6.Sum_big_numbers.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Strings and Text Processing - Exercises\6. Sum big numbers\obj\Debug\_6.Sum_big_numbers.pdb

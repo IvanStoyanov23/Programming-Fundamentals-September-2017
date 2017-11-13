@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 1. Max Sequence of Equal Elements\bin\Debug\Problem_1.Max_Sequence_of_Equal_Elements.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 1. Max Sequence of Equal Elements\bin\Debug\Problem_1.Max_Sequence_of_Equal_Elements.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 1. Max Sequence of Equal Elements\bin\Debug\Problem_1.Max_Sequence_of_Equal_Elements.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 1. Max Sequence of Equal Elements\obj\Debug\Problem 1. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 1. Max Sequence of Equal Elements\obj\Debug\Problem_1.Max_Sequence_of_Equal_Elements.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 1. Max Sequence of Equal Elements\obj\Debug\Problem_1.Max_Sequence_of_Equal_Elements.pdb

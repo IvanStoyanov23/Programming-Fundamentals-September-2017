@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 7. Andrey and Billiard\bin\Debug\Problem_7.Andrey_and_Billiard.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 7. Andrey and Billiard\bin\Debug\Problem_7.Andrey_and_Billiard.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 7. Andrey and Billiard\bin\Debug\Problem_7.Andrey_and_Billiard.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 7. Andrey and Billiard\obj\Debug\Problem 7. Andrey and Billiard.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 7. Andrey and Billiard\obj\Debug\Problem_7.Andrey_and_Billiard.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 7. Andrey and Billiard\obj\Debug\Problem_7.Andrey_and_Billiard.pdb

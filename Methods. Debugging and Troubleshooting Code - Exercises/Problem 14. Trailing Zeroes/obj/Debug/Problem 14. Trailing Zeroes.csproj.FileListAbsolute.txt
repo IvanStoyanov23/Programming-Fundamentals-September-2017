@@ -1,0 +1,5 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 14. Trailing Zeroes\bin\Debug\Problem_14.Trailing_Zeroes.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 14. Trailing Zeroes\bin\Debug\Problem_14.Trailing_Zeroes.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 14. Trailing Zeroes\bin\Debug\Problem_14.Trailing_Zeroes.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 14. Trailing Zeroes\obj\Debug\Problem_14.Trailing_Zeroes.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 14. Trailing Zeroes\obj\Debug\Problem_14.Trailing_Zeroes.pdb

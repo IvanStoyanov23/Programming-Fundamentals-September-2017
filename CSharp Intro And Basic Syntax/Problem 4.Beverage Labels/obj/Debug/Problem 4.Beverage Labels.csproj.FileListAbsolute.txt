@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 4.Beverage Labels\bin\Debug\Problem 4.Beverage Labels.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 4.Beverage Labels\bin\Debug\Problem 4.Beverage Labels.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 4.Beverage Labels\bin\Debug\Problem 4.Beverage Labels.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 4.Beverage Labels\obj\Debug\Problem 4.Beverage Labels.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 4.Beverage Labels\obj\Debug\Problem 4.Beverage Labels.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\CSharp Intro And Basic Syntax\Problem 4.Beverage Labels\obj\Debug\Problem 4.Beverage Labels.pdb

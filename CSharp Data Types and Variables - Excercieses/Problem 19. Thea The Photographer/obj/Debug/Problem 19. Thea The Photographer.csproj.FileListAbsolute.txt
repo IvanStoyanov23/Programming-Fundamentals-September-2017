@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 19. Thea The Photographer\bin\Debug\Problem_19.Thea_The_Photographer.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 19. Thea The Photographer\bin\Debug\Problem_19.Thea_The_Photographer.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 19. Thea The Photographer\bin\Debug\Problem_19.Thea_The_Photographer.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 19. Thea The Photographer\obj\Debug\Problem 19. Thea The Photographer.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 19. Thea The Photographer\obj\Debug\Problem_19.Thea_The_Photographer.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 19. Thea The Photographer\obj\Debug\Problem_19.Thea_The_Photographer.pdb

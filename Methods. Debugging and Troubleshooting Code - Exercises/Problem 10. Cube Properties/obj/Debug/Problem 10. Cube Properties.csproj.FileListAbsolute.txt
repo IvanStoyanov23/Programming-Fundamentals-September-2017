@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 10. Cube Properties\bin\Debug\Problem_10.Cube_Properties.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 10. Cube Properties\bin\Debug\Problem_10.Cube_Properties.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 10. Cube Properties\bin\Debug\Problem_10.Cube_Properties.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 10. Cube Properties\obj\Debug\Problem 10. Cube Properties.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 10. Cube Properties\obj\Debug\Problem_10.Cube_Properties.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 10. Cube Properties\obj\Debug\Problem_10.Cube_Properties.pdb

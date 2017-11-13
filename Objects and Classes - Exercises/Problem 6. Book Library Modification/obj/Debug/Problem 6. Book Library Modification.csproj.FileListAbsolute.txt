@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 6. Book Library Modification\bin\Debug\Problem_6.Book_Library_Modification.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 6. Book Library Modification\bin\Debug\Problem_6.Book_Library_Modification.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 6. Book Library Modification\bin\Debug\Problem_6.Book_Library_Modification.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 6. Book Library Modification\obj\Debug\Problem 6. Book Library Modification.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 6. Book Library Modification\obj\Debug\Problem_6.Book_Library_Modification.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 6. Book Library Modification\obj\Debug\Problem_6.Book_Library_Modification.pdb

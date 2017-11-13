@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 16. Comparin Floats\bin\Debug\Problem_16.Comparin_Floats.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 16. Comparin Floats\bin\Debug\Problem_16.Comparin_Floats.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 16. Comparin Floats\bin\Debug\Problem_16.Comparin_Floats.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 16. Comparin Floats\obj\Debug\Problem 16. Comparin Floats.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 16. Comparin Floats\obj\Debug\Problem_16.Comparin_Floats.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 16. Comparin Floats\obj\Debug\Problem_16.Comparin_Floats.pdb

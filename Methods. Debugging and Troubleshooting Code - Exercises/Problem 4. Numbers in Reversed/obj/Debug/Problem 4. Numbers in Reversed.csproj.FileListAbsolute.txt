@@ -1,0 +1,6 @@
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 4. Numbers in Reversed\bin\Debug\Problem_4.Numbers_in_Reversed.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 4. Numbers in Reversed\bin\Debug\Problem_4.Numbers_in_Reversed.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 4. Numbers in Reversed\bin\Debug\Problem_4.Numbers_in_Reversed.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 4. Numbers in Reversed\obj\Debug\Problem_4.Numbers_in_Reversed.exe
+c:\users\ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 4. Numbers in Reversed\obj\Debug\Problem_4.Numbers_in_Reversed.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 4. Numbers in Reversed\obj\Debug\Problem 4. Numbers in Reversed.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 10. Centuries to Nanoseconds\bin\Debug\Problem_10.Centuries_to_Nanoseconds.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 10. Centuries to Nanoseconds\bin\Debug\Problem_10.Centuries_to_Nanoseconds.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 10. Centuries to Nanoseconds\bin\Debug\Problem_10.Centuries_to_Nanoseconds.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 10. Centuries to Nanoseconds\obj\Debug\Problem_10.Centuries_to_Nanoseconds.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 10. Centuries to Nanoseconds\obj\Debug\Problem_10.Centuries_to_Nanoseconds.pdb

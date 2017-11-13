@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 13. Factorial\bin\Debug\Problem_13.Factorial.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 13. Factorial\bin\Debug\Problem_13.Factorial.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 13. Factorial\bin\Debug\Problem_13.Factorial.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 13. Factorial\obj\Debug\Problem 13. Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 13. Factorial\obj\Debug\Problem_13.Factorial.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 13. Factorial\obj\Debug\Problem_13.Factorial.pdb

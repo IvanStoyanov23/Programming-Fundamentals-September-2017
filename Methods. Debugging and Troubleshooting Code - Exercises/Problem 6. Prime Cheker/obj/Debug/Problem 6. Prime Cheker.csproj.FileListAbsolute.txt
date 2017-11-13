@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 6. Prime Cheker\bin\Debug\Problem_6.Prime_Cheker.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 6. Prime Cheker\bin\Debug\Problem_6.Prime_Cheker.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 6. Prime Cheker\bin\Debug\Problem_6.Prime_Cheker.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 6. Prime Cheker\obj\Debug\Problem 6. Prime Cheker.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 6. Prime Cheker\obj\Debug\Problem_6.Prime_Cheker.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 6. Prime Cheker\obj\Debug\Problem_6.Prime_Cheker.pdb

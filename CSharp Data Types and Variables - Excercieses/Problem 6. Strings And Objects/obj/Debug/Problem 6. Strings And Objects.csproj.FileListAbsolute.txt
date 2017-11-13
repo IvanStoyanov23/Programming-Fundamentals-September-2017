@@ -1,0 +1,5 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 6. Strings And Objects\bin\Debug\Problem_6.Strings_And_Objects.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 6. Strings And Objects\bin\Debug\Problem_6.Strings_And_Objects.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 6. Strings And Objects\bin\Debug\Problem_6.Strings_And_Objects.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 6. Strings And Objects\obj\Debug\Problem_6.Strings_And_Objects.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 6. Strings And Objects\obj\Debug\Problem_6.Strings_And_Objects.pdb

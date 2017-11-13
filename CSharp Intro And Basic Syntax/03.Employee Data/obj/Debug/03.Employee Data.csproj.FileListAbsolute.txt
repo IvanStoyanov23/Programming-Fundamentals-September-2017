@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Intro And Basic Syntax\03.Employee Data\bin\Debug\03.Employee Data.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Intro And Basic Syntax\03.Employee Data\bin\Debug\03.Employee Data.exe
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Intro And Basic Syntax\03.Employee Data\bin\Debug\03.Employee Data.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Intro And Basic Syntax\03.Employee Data\obj\Debug\03.Employee Data.exe
+c:\users\ivan\documents\visual studio 2017\Projects\CSharp Intro And Basic Syntax\03.Employee Data\obj\Debug\03.Employee Data.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 8. Employee Data\bin\Debug\Problem_8.Employee_Data.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 8. Employee Data\bin\Debug\Problem_8.Employee_Data.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 8. Employee Data\bin\Debug\Problem_8.Employee_Data.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 8. Employee Data\obj\Debug\Problem_8.Employee_Data.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 8. Employee Data\obj\Debug\Problem_8.Employee_Data.pdb

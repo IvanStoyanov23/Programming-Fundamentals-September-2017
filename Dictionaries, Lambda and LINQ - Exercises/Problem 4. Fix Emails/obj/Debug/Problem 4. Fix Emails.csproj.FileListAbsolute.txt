@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 4. Fix Emails\bin\Debug\Problem_4.Fix_Emails.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 4. Fix Emails\bin\Debug\Problem_4.Fix_Emails.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 4. Fix Emails\bin\Debug\Problem_4.Fix_Emails.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 4. Fix Emails\obj\Debug\Problem 4. Fix Emails.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 4. Fix Emails\obj\Debug\Problem_4.Fix_Emails.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 4. Fix Emails\obj\Debug\Problem_4.Fix_Emails.pdb

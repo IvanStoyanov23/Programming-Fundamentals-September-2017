@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 4. Variable in Hexadecimal Format\bin\Debug\Problem_4.Variable_in_Hexadecimal_Format.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 4. Variable in Hexadecimal Format\bin\Debug\Problem_4.Variable_in_Hexadecimal_Format.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 4. Variable in Hexadecimal Format\bin\Debug\Problem_4.Variable_in_Hexadecimal_Format.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 4. Variable in Hexadecimal Format\obj\Debug\Problem 4. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 4. Variable in Hexadecimal Format\obj\Debug\Problem_4.Variable_in_Hexadecimal_Format.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 4. Variable in Hexadecimal Format\obj\Debug\Problem_4.Variable_in_Hexadecimal_Format.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 3 Miner Task\bin\Debug\Problem 3 Miner Task.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 3 Miner Task\bin\Debug\Problem 3 Miner Task.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 3 Miner Task\bin\Debug\Problem 3 Miner Task.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 3 Miner Task\obj\Debug\Problem 3 Miner Task.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 3 Miner Task\obj\Debug\Problem 3 Miner Task.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Dictionaries, Lambda and LINQ - Exercises\Problem 3 Miner Task\obj\Debug\Problem 3 Miner Task.pdb

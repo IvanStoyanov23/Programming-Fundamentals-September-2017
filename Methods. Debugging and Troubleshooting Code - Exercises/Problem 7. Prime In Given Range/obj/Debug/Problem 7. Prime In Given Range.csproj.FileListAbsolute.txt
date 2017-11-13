@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 7. Prime In Given Range\bin\Debug\Problem_7.Prime_In_Given_Range.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 7. Prime In Given Range\bin\Debug\Problem_7.Prime_In_Given_Range.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 7. Prime In Given Range\bin\Debug\Problem_7.Prime_In_Given_Range.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 7. Prime In Given Range\obj\Debug\Problem 7. Prime In Given Range.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 7. Prime In Given Range\obj\Debug\Problem_7.Prime_In_Given_Range.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Methods. Debugging and Troubleshooting Code - Exercises\Problem 7. Prime In Given Range\obj\Debug\Problem_7.Prime_In_Given_Range.pdb

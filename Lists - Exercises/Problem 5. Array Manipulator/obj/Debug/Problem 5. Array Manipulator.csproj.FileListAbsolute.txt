@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 5. Array Manipulator\bin\Debug\Problem_5.Array_Manipulator.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 5. Array Manipulator\bin\Debug\Problem_5.Array_Manipulator.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 5. Array Manipulator\bin\Debug\Problem_5.Array_Manipulator.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 5. Array Manipulator\obj\Debug\Problem 5. Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 5. Array Manipulator\obj\Debug\Problem_5.Array_Manipulator.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Lists - Exercises\Problem 5. Array Manipulator\obj\Debug\Problem_5.Array_Manipulator.pdb

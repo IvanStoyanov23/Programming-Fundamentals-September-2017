@@ -1,0 +1,6 @@
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 3. Circles Intersection\bin\Debug\Problem_3.Circles_Intersection.exe.config
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 3. Circles Intersection\bin\Debug\Problem_3.Circles_Intersection.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 3. Circles Intersection\bin\Debug\Problem_3.Circles_Intersection.pdb
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 3. Circles Intersection\obj\Debug\Problem 3. Circles Intersection.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 3. Circles Intersection\obj\Debug\Problem_3.Circles_Intersection.exe
+C:\Users\Ivan\documents\visual studio 2017\Projects\Objects and Classes - Exercises\Problem 3. Circles Intersection\obj\Debug\Problem_3.Circles_Intersection.pdb

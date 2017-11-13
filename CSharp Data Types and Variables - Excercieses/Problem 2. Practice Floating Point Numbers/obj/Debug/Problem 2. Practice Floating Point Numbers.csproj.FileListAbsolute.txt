@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 2. Practice Floating Point Numbers\bin\Debug\Problem_2.Practice_Floating_Point_Numbers.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 2. Practice Floating Point Numbers\bin\Debug\Problem_2.Practice_Floating_Point_Numbers.exe
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 2. Practice Floating Point Numbers\bin\Debug\Problem_2.Practice_Floating_Point_Numbers.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 2. Practice Floating Point Numbers\obj\Debug\Problem_2.Practice_Floating_Point_Numbers.exe
+c:\users\ivan\documents\visual studio 2017\Projects\DATA TYPES AND VARIABLES - EXERCISES\Problem 2. Practice Floating Point Numbers\obj\Debug\Problem_2.Practice_Floating_Point_Numbers.pdb

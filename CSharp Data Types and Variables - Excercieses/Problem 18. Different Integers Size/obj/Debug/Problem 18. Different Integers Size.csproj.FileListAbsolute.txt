@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 18. Different Integers Size\bin\Debug\Problem_18.Different_Integers_Size.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 18. Different Integers Size\bin\Debug\Problem_18.Different_Integers_Size.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 18. Different Integers Size\bin\Debug\Problem_18.Different_Integers_Size.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 18. Different Integers Size\obj\Debug\Problem_18.Different_Integers_Size.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharp Data Types and Variables - Excercieses\Problem 18. Different Integers Size\obj\Debug\Problem_18.Different_Integers_Size.pdb
